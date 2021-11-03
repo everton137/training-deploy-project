@@ -15,7 +15,7 @@ GREEN=`tput setaf 2`
 RESET=`tput sgr0`
 YELLOW=`tput setaf 3`
 
-DOCKER_HUB_USER=DOCKER_HUB_USER_CHANGE_ME
+DOCKER_HUB_USER=everton137
 IMAGE_NAME=${DOCKER_HUB_USER}/project-frontend:latest
 
 
